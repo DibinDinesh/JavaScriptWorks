@@ -1,0 +1,6 @@
+var =global scope
+
+let =block scope
+        only using inside the loop
+
+cont = contant

@@ -1,0 +1,17 @@
+
+*   hoistig-
+
+*   coercion-
+    ----convert one data type to another
+ 
+*   diff bw == and ===
+
+*   diff bw undefined andd null
+
+*   array
+
+*   methods-
+    -----(map,filter,reduce,sort)
+
+* constructor
+    -----used to initialize the instance variables

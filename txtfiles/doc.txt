@@ -1,0 +1,14 @@
+// line comment
+/ *multiple
+line
+comment* /
+
+// camelCase js(funtions,methods)
+
+
+// snake _ case python (functions, methods)
+
+
+// PascalCase python,js(C1assName)
+
+
